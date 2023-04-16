@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "title": "Airpods3",
+      "location": "UK",
+      "price": "121212",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS786TuEiuP6H1YgV260yhHZMzbikVTLUvTXw&usqp=CAU",
+      "sale": "12121",
+      "id": 1
+    }
+  ]
+}
